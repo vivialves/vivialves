@@ -1,6 +1,6 @@
 ### Hi there / Salut👋
 
-- 🔭 I’m currently working on Breast Cancer Project
+- 🔭 I’m currently working on Breast Cancer Project - Version II.
 
 <!--
 **vivialves/vivialves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
